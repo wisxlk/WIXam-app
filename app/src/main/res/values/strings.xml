@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WIXam</string>
+    <string name="todo">todo</string>
+    <string name="marker_vos_pr_sence_avec_wixam">Marker Vos Présence Avec WIXam</string>
+    <string name="la_fr_quentation_des_tudiants_devrait_tre_simplifi_e_et_l_application_wixam_a_t_cr_e_il_suffit_de_scanner_la_carte_d_tudiant_pour_la_marquer_comme_pr_sente_ou_absente">La fréquentation des étudiants devrait être simplifiée, et l\'application WIXam a été créée. Il suffit de scanner la carte d\'étudiant pour la marquer comme présente ou absente.</string>
+    <string name="se_connecter">se connecter</string>
+    <string name="move">move</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="connecter">connecter</string>
+    <string name="je_n_ai_pas_de_compte">Je n\'ai pas de compte?</string>
+    <string name="inscrire">inscrire.</string>
+    <string name="choisir">Choisir...</string>
+    <string name="td">TD/TP</string>
+    <string name="textview">textview</string>
+    <string name="passer_votre_carte">Passer votre carte</string>
+    <string name="faites_glisser_votre_carte_pour_vous_assurer_que_cet_tudiant_appartient_au_exam">Faites glisser votre carte pour vous assurer que cet étudiant appartient au classe</string>
+    <string name="accepte">accepte</string>
+    <string name="solde_insuffisent">solde</string>
+    <string name="clientInconnu">clientinconnu</string>
+    <string name="etudiantInconnu">Etudiant inconnu</string>
+    <string name="bonjour_enseignant">Bonjour Enseignant!</string>
+    <string name="faites_glisser_votre_carte_pour_vous_assurer_que_ce_etudiant_appartient_au_cour">faites glisser votre carte pour vous assurer que ce etudiant appartient au cour</string>
+ <string name="faites_glisser_votre_carte_pour_vous_assurer_que_ce_tudiant_appartient_au_exam">faites glisser votre carte pour vous assurer que ce étudiant appartient au exam</string>
+    <string name="exam">exam</string>
+</resources>
